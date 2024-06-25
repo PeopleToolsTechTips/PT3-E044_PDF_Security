@@ -8,7 +8,7 @@ Randy Groncki
 
 Using PeopleTools and PeopleCode, we can add additional security features to BI Publisher generated PDF reports to help safeguard your company’s data.
 
-### Web Posting: https://peopletoolstechtips.com/tbd
+### Web Posting: https://peopletoolstechtips.com/bi-publisher-pdf-security/
 
 ### YouTube demo: https://youtu.be/emxkNxgq9i4
 
