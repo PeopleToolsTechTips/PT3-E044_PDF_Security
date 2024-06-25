@@ -10,7 +10,7 @@ Using PeopleTools and PeopleCode, we can add additional security features to BI 
 
 ### Web Posting: https://peopletoolstechtips.com/tbd
 
-### YouTube demo: https://www.youtube.com/watch?v=tbd
+### YouTube demo: https://youtu.be/emxkNxgq9i4
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
